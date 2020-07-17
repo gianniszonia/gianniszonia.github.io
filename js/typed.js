@@ -399,7 +399,7 @@
         strings: ["These are the default values...", "You know what you should do?", "Use your own!", "Have a great day!"],
         stringsElement: null,
         // typing speed
-        typeSpeed: 30,
+        typeSpeed: 50,
         // time before typing starts
         startDelay: 0,
         // backspacing speed
@@ -407,7 +407,7 @@
         // shuffle the strings
         shuffle: false,
         // time before backspacing
-        backDelay: 700,
+        backDelay: 800,
         // loop
         loop: false,
         // false = infinite
